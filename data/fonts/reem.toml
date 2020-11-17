@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Reem"
+
+# Optional Google font URL
+google_fonts = "family=Reem+Kufi"
+
+# Font families
+heading_font = "Reem Kufi"
+body_font = "Reem Kufi"
+nav_font = "Reem Kufi"
+mono_font = "Reem Kufi"
